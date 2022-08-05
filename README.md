@@ -40,14 +40,15 @@ Steps:
 ** Step 7 : ** Create the index.html file , under the WebContent .
             ** Right click WebContent --> New --> HTML File 
             
-            ![image](https://user-images.githubusercontent.com/1586154/182861432-19caee6f-be6c-4d59-acca-6917ca157303.png)
+![image](https://user-images.githubusercontent.com/1586154/182861432-19caee6f-be6c-4d59-acca-6917ca157303.png)
 
             ** Give the file name as index.html .
-            ![image](https://user-images.githubusercontent.com/1586154/182861766-360d7563-1638-4b8a-ad18-453a623a5a75.png)
+
+![image](https://user-images.githubusercontent.com/1586154/182861766-360d7563-1638-4b8a-ad18-453a623a5a75.png)
 
 ** Step 8 : ** Modify the index.html Like below , add you content whatever you need to display in Browser .
 
-         ![image](https://user-images.githubusercontent.com/1586154/182862549-39c440a3-da5d-4fdf-8023-4270d2b689aa.png)
+![image](https://user-images.githubusercontent.com/1586154/182862549-39c440a3-da5d-4fdf-8023-4270d2b689aa.png)
 ** Step 9 : ** Now Simple Project is ready , this needs to be deployed in Tomcat Server to see the page in Browser .
 
 ** Step 10 : ** Create the war file 
@@ -55,31 +56,31 @@ Steps:
    ![image](https://user-images.githubusercontent.com/1586154/182863154-c7824d24-ec43-4a87-b3e5-d1b09b4793e3.png)
 
      * Select File --> Export 
-      ![image](https://user-images.githubusercontent.com/1586154/182863725-be26d8fd-d23a-4047-b334-415bd882d829.png)
+![image](https://user-images.githubusercontent.com/1586154/182863725-be26d8fd-d23a-4047-b334-415bd882d829.png)
       * War file 
-      ![image](https://user-images.githubusercontent.com/1586154/182864029-fb81c98c-3413-4c3f-bd02-0e344f27a09d.png)
+![image](https://user-images.githubusercontent.com/1586154/182864029-fb81c98c-3413-4c3f-bd02-0e344f27a09d.png)
       Next 
-      ![image](https://user-images.githubusercontent.com/1586154/182864360-aa2e3bf6-1b8b-4ea3-a724-313190118393.png)
+![image](https://user-images.githubusercontent.com/1586154/182864360-aa2e3bf6-1b8b-4ea3-a724-313190118393.png)
 
       Select the destination and file 
-      ![image](https://user-images.githubusercontent.com/1586154/182864763-4833da90-4375-4eda-891c-ca5ee466524f.png)
+![image](https://user-images.githubusercontent.com/1586154/182864763-4833da90-4375-4eda-891c-ca5ee466524f.png)
       Click save button 
-      ![image](https://user-images.githubusercontent.com/1586154/182865132-5f572aa8-1160-423f-bee4-e765c0a24497.png)
+![image](https://user-images.githubusercontent.com/1586154/182865132-5f572aa8-1160-423f-bee4-e765c0a24497.png)
 
 Click Finish Button 
  ** Step 11 : ** Go to selected destication and check war file is present or not.
- ![image](https://user-images.githubusercontent.com/1586154/182865642-67a5ef1b-9990-414c-a7cb-27b4954556ca.png)
+![image](https://user-images.githubusercontent.com/1586154/182865642-67a5ef1b-9990-414c-a7cb-27b4954556ca.png)
  
  ** Step 12 ** Now war file is ready , this has to be deployed in tomcat .
       * Go to webapps folder under apache-tomcat-8.5.81 
-      ![image](https://user-images.githubusercontent.com/1586154/182866284-e0b75f64-19c3-42df-a66d-e35c0495f409.png)
+![image](https://user-images.githubusercontent.com/1586154/182866284-e0b75f64-19c3-42df-a66d-e35c0495f409.png)
       * Copy paste generated war file in this folder 
       
-     ![image](https://user-images.githubusercontent.com/1586154/182866830-4f3fd9f2-ab30-4570-b147-c9ef542d848d.png)
+![image](https://user-images.githubusercontent.com/1586154/182866830-4f3fd9f2-ab30-4570-b147-c9ef542d848d.png)
 
 ** Step 13 ** Now Start the tomcat server 
       Go to bin folder 
-   ![image](https://user-images.githubusercontent.com/1586154/182867107-3182a9bc-cd4b-4523-bb09-48b90141f0ac.png)
+![image](https://user-images.githubusercontent.com/1586154/182867107-3182a9bc-cd4b-4523-bb09-48b90141f0ac.png)
 
 ![image](https://user-images.githubusercontent.com/1586154/182867665-c9e1c116-7da3-4e6d-8225-16e39a9ece83.png)
 
